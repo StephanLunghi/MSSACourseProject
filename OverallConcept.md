@@ -12,12 +12,6 @@ A red X appears over the animal if the user is wrong and a box that reads "Try A
 When the user chooses the correct animal there is a cheer and it moves to the next letter. 
 After the user completes the alphabet there is a congratulations screen and there is an option to "play again" or "exit". 
 
-There are several youtube videos that will help guide me through this process. 
-The "How to create an Alphabet App in C#" video on youtube is an extremely good guide. 
-My application is going to be pretty different, but the idea is similar. I plan on using Windows forms in Visual Studio.
-I can add existing files of animals onto visual studio and use them. 
-Instead of using an existing voice synthesizer I would like to record and use my own voice. 
-This can be done by using the sound player object of the Media Namespace. There are a few videos online that have some good tutorials. 
 
 After "play" is chosen on the main menu the screen will show a letter on the left side, and 3 animals on the right side. 
 When the screen first opens voice will occur saying the name of the letter, and the sound the letter makes. 
